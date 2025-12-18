@@ -1,6 +1,22 @@
 
 # Demo Project – Use Docker for Local Development (Module 7)
 
+
+## Technologies
+- Docker
+- Node.js
+- MongoDB
+- Mongo Express
+
+## Description
+This project demonstrates local development using Docker containers.
+A Node.js application runs in a Docker container and connects to a MongoDB container.
+Mongo Express is used as a UI to manage the MongoDB database.
+
+## How to Run
+docker-compose up
+-----
+
 ## demo app - developing with Docker
 
 This demo app shows a simple user profile app set up using 
